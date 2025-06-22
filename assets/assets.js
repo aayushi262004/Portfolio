@@ -108,10 +108,10 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Machine Learning', description: 'Skilled in model building and data analysis ...', link: 'https://github.com/naman-omar/Career_Recommendation_System' },
-    { icon: assets.mobile_icon, title: 'Web Development', description: 'Web development is the process of building, programming...', link: 'https://hospital-appointment-frontend-80rz.onrender.com/Home' },
-    { icon: assets.ui_icon, title: 'Data Structures & Algorithms (DSA)', description: 'Strong problem-solving and optimization skills ...', link: 'https://leetcode.com/u/namanknp13/' },
-    { icon: assets.graphics_icon, title: 'Competitive Programming', description: 'Efficient in algorithmic problem-solving and coding ...', link: 'https://codeforces.com/profile/Naman_omar' },
+    { icon: assets.web_icon, title: 'Machine Learning', description: 'Skilled in model building and data analysis ...', link: 'https://github.com/Ankitsharma2023/Investronaut.git' },
+    { icon: assets.mobile_icon, title: 'Web Development', description: 'Web development is the process of building, programming...', link: 'https://github.com/Ankitsharma2023/StudentConnect' },
+    { icon: assets.ui_icon, title: 'Data Structures & Algorithms (DSA)', description: 'Strong problem-solving and optimization skills ...', link: 'https://leetcode.com/u/Ankitsharma2025/' },
+    { icon: assets.graphics_icon, title: 'Competitive Programming', description: 'Efficient in algorithmic problem-solving and coding ...', link: 'https://www.codechef.com/users/genie_bug_18' },
 ]
 
 export const infoList = [
