@@ -85,25 +85,25 @@ export const workData = [
         title: 'Quick Blog',
         description: 'MERN + AI ',
         bgImage: work1,
-        link:'https://quick-blog-theta-five.vercel.app/'
+        link: 'https://quick-blog-theta-five.vercel.app/'
     },
     {
         title: 'Medi Mind',
         description: 'Gen AI ',
         bgImage: work2,
-        link:'https://github.com/Divyanshu03chauhan103/cellstrat'
+        link: 'https://github.com/Divyanshu03chauhan103/cellstrat'
     },
-    // {
-    //     title: 'StudentConnect',
-    //     description: 'Full Stack ',
-    //     bgImage: work3,
-    //     link:'https://student-connect-one.vercel.app/'
-    // },
+    {
+        title: 'StudentConnect',
+        description: 'Full Stack ',
+        bgImage: work3,
+        link: 'https://student-connect-one.vercel.app/'
+    },
     {
         title: 'Loan Manag. ',
         description: 'Full Stack',
         bgImage: work4,
-        link:'https://loan-management-system-eight.vercel.app/'
+        link: 'https://loan-management-system-eight.vercel.app/'
     },
 ]
 
