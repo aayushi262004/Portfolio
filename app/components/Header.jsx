@@ -25,7 +25,7 @@ const Header = () => {
         transition={{ duration: 0.8, delay: 0.3 }}
         className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo"
       >
-        Hi! I'm Ankit Kumar
+        Hi! I'm Aayushi Gupta
         <Image src={assets.hand_icon} alt="" className=" w-6  " />
       </motion.h3>
 
@@ -66,7 +66,7 @@ const Header = () => {
   initial={{ y: 30, opacity: 0 }}
   whileInView={{ y: 0, opacity: 1 }}
   transition={{ duration: 0.6, delay: 1.2 }}
-  href="https://drive.google.com/file/d/1m_XtptqH09HxBVbvk2TIcPvH7gTSwRQF/view?usp=sharing"
+  href="https://drive.google.com/file/d/1S2Tvx0glqfuAjy0nMxx4jIBirPXH9H_h/view"
   target="_blank" 
   rel="noopener noreferrer"
   className={` ${isDarkMode ? "bg-white text-black" : ""}

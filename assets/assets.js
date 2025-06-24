@@ -82,23 +82,23 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Investronaut',
+        title: 'Quick Blog',
         description: 'MERN + AI ',
         bgImage: work1,
-        link:'https://investronaut.vercel.app/'
+        link:'https://quick-blog-theta-five.vercel.app/'
     },
     {
-        title: 'Mathify',
+        title: 'Medi Mind',
         description: 'Gen AI ',
         bgImage: work2,
-        link:'https://mathify-ai.streamlit.app/'
+        link:'https://github.com/Divyanshu03chauhan103/cellstrat'
     },
-    {
-        title: 'StudentConnect',
-        description: 'Full Stack ',
-        bgImage: work3,
-        link:'https://student-connect-one.vercel.app/'
-    },
+    // {
+    //     title: 'StudentConnect',
+    //     description: 'Full Stack ',
+    //     bgImage: work3,
+    //     link:'https://student-connect-one.vercel.app/'
+    // },
     {
         title: 'Loan Manag. ',
         description: 'Full Stack',
@@ -108,10 +108,10 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Machine Learning', description: 'Skilled in model building and data analysis ...', link: 'https://github.com/Ankitsharma2023/Investronaut.git' },
-    { icon: assets.mobile_icon, title: 'Web Development', description: 'Web development is the process of building, programming...', link: 'https://github.com/Ankitsharma2023/StudentConnect' },
-    { icon: assets.ui_icon, title: 'Data Structures & Algorithms (DSA)', description: 'Strong problem-solving and optimization skills ...', link: 'https://leetcode.com/u/Ankitsharma2025/' },
-    { icon: assets.graphics_icon, title: 'Competitive Programming', description: 'Efficient in algorithmic problem-solving and coding ...', link: 'https://www.codechef.com/users/genie_bug_18' },
+    { icon: assets.web_icon, title: 'Machine Learning', description: 'Skilled in model building and data analysis ...', link: 'https://github.com/Divyanshu03chauhan103/cellstrat' },
+    { icon: assets.mobile_icon, title: 'Web Development', description: 'Web development is the process of building, programming...', link: 'https://github.com/aayushi262004/QuickBlog' },
+    { icon: assets.ui_icon, title: 'Data Structures & Algorithms (DSA)', description: 'Strong problem-solving and optimization skills ...', link: 'https://leetcode.com/u/Aayushi_2/' },
+    { icon: assets.graphics_icon, title: 'Competitive Programming', description: 'Efficient in algorithmic problem-solving and coding ...', link: 'https://codeforces.com/profile/nonsg' },
 ]
 
 export const infoList = [
